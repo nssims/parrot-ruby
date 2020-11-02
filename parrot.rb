@@ -1,8 +1,10 @@
-# parrot
+# define parrot
 
-def parrot "Squawk!" 
-    puts #{"Squawk"}
+def parrot (phrase,"Squawk!")
+    puts parrot
 end
 
 puts parrot
+
+
 
